@@ -61,7 +61,7 @@ Based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc., [G
 normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
  
 ## Credits
-Thanks to patrick h. lauke aka redux [https://www.splintered.co.uk/for] the fonts<br/>
+Thanks to patrick h. lauke aka redux [https://www.splintered.co.uk/] for the fonts<br/>
 Thanks to http://www.amiga-look.org/ and http://www.geekometry.com/ for icons and cursors
 
 ## CopyLeft & License
